@@ -1,0 +1,241 @@
+Campaign_ID,Target_Audience,Campaign_Goal,Duration,Channel_Used,Conversion_Rate,Acquisition_Cost,ROI,Location,Language,Clicks,Impressions,Engagement_Score,Customer_Segment,Date,Company
+AD-1001,25–34,Product Launch,30 Days,Facebook,0.1211,"$1,531.69",4.81,Los Angeles,English,1156,21624,3.9,High-Value Customers,2026-04-01,Summit Outdoor
+AD-1002,18–24,Lead Generation,21 Days,Instagram,0.1654,"$2,071.03",5.13,New York,English,1365,42476,6.4,High-Value Customers,2026-04-01,Northstar Goods
+AD-1003,35–44,Product Launch,15 Days,Pinterest,0.0592,"$3,628.89",4.31,Chicago,English,3919,66649,7.0,High-Value Customers,2026-04-02,Bloom Studio
+AD-1004,35–44,Lead Generation,21 Days,Twitter,0.1727,"$1,184.12",0.83,Seattle,English,3180,51333,3.4,New Customers,2026-04-03,Bloom Studio
+AD-1005,45–54,Sales,7 Days,Facebook,0.159,"$2,431.50",3.81,Seattle,English,778,51094,4.6,Returning Customers,2026-04-04,Juniper Home
+AD-1006,35–44,Sales,7 Days,Instagram,0.0413,"$2,847.92",4.66,Austin,English,578,22411,9.7,New Customers,2026-04-04,Juniper Home
+AD-1007,25–34,Brand Awareness,21 Days,Pinterest,0.1778,$400.97,4.35,Austin,English,2779,46971,9.8,New Customers,2026-04-05,Summit Outdoor
+AD-1008,25–34,Brand Awareness,15 Days,Twitter,0.1535,"$1,269.19",4.06,Austin,English,1730,38366,8.2,High-Value Customers,2026-04-06,Juniper Home
+AD-1009,45–54,Brand Awareness,30 Days,Facebook,0.1608,"$2,773.69",2.51,Chicago,English,4582,77224,9.6,High-Value Customers,2026-04-07,Bloom Studio
+AD-1010,45–54,Lead Generation,30 Days,Instagram,0.1153,"$1,831.40",4.84,New York,English,654,48346,5.4,New Customers,2026-04-07,Bloom Studio
+AD-1011,35–44,Sales,7 Days,Pinterest,0.1077,"$1,186.04",6.41,New York,English,3295,78609,7.9,High-Value Customers,2026-04-08,Juniper Home
+AD-1012,45–54,Brand Awareness,7 Days,Twitter,0.0299,"$2,706.69",4.78,Chicago,English,385,20317,8.9,High-Value Customers,2026-04-09,Northstar Goods
+AD-1013,25–34,Brand Awareness,14 Days,Facebook,0.0681,"$1,830.76",4.7,New York,English,4744,86665,8.7,Returning Customers,2026-04-10,Bloom Studio
+AD-1014,18–24,Lead Generation,15 Days,Instagram,0.1958,"$2,959.60",4.89,Los Angeles,English,431,32187,5.3,New Customers,2026-04-10,Juniper Home
+AD-1015,18–24,Lead Generation,21 Days,Pinterest,0.0423,"$3,525.94",3.73,Los Angeles,English,1097,30652,7.7,High-Value Customers,2026-04-11,Summit Outdoor
+AD-1016,35–44,Lead Generation,14 Days,Twitter,0.0908,$741.23,2.16,Seattle,English,3220,92738,4.8,High-Value Customers,2026-04-12,Summit Outdoor
+AD-1017,45–54,Lead Generation,30 Days,Facebook,0.1571,$359.12,4.46,Austin,English,4057,80990,6.0,Returning Customers,2026-04-13,Summit Outdoor
+AD-1018,45–54,Lead Generation,7 Days,Instagram,0.1898,"$2,410.43",2.1,Chicago,English,817,16787,6.6,New Customers,2026-04-13,Bloom Studio
+AD-1019,35–44,Product Launch,14 Days,Pinterest,0.1036,"$3,211.12",4.99,Los Angeles,English,2922,88051,9.5,Returning Customers,2026-04-14,Northstar Goods
+AD-1020,45–54,Lead Generation,14 Days,Twitter,0.108,"$2,321.17",4.71,Chicago,English,4607,71019,6.8,High-Value Customers,2026-04-15,Summit Outdoor
+AD-1021,18–24,Sales,21 Days,Facebook,0.1278,"$2,417.09",0.7,Austin,English,1141,35562,6.9,New Customers,2026-04-16,Juniper Home
+AD-1022,35–44,Lead Generation,14 Days,Instagram,0.1757,"$3,372.50",3.43,Los Angeles,English,1062,53265,7.8,High-Value Customers,2026-04-17,Orbit Software
+AD-1023,18–24,Lead Generation,7 Days,Pinterest,0.0389,"$4,186.42",5.79,Seattle,English,1702,93647,5.7,Returning Customers,2026-04-17,Bloom Studio
+AD-1024,18–24,Lead Generation,21 Days,Twitter,0.1301,"$3,914.29",3.26,New York,English,2421,82187,7.2,New Customers,2026-04-18,Bloom Studio
+AD-1025,45–54,Product Launch,15 Days,Facebook,0.0499,"$4,032.17",5.73,Austin,English,2289,64920,3.0,New Customers,2026-04-19,Summit Outdoor
+AD-1026,35–44,Lead Generation,30 Days,Instagram,0.0281,"$1,507.74",0.62,New York,English,730,38201,6.3,High-Value Customers,2026-04-20,Northstar Goods
+AD-1027,25–34,Product Launch,30 Days,Pinterest,0.0685,"$3,001.52",1.72,Los Angeles,English,5428,91019,7.1,New Customers,2026-04-20,Northstar Goods
+AD-1028,45–54,Sales,15 Days,Twitter,0.1236,"$3,783.88",5.18,New York,English,4521,78922,3.9,New Customers,2026-04-21,Bloom Studio
+AD-1029,25–34,Sales,15 Days,Facebook,0.155,"$1,413.77",5.9,Chicago,English,1591,24968,5.8,New Customers,2026-04-22,Bloom Studio
+AD-1030,18–24,Sales,15 Days,Instagram,0.1409,"$3,445.46",6.14,Seattle,English,4473,73394,3.7,Returning Customers,2026-04-23,Orbit Software
+AD-1031,35–44,Sales,21 Days,Pinterest,0.1201,"$3,818.29",3.75,Los Angeles,English,1982,83324,5.9,High-Value Customers,2026-04-23,Summit Outdoor
+AD-1032,18–24,Brand Awareness,7 Days,Twitter,0.1172,"$3,990.40",5.98,Chicago,English,974,17301,4.1,Returning Customers,2026-04-24,Juniper Home
+AD-1033,18–24,Sales,30 Days,Facebook,0.0293,"$2,697.97",1.99,Seattle,English,804,62969,4.9,Returning Customers,2026-04-25,Summit Outdoor
+AD-1034,25–34,Lead Generation,30 Days,Instagram,0.0907,"$2,738.04",1.53,Seattle,English,719,32051,8.9,Returning Customers,2026-04-26,Northstar Goods
+AD-1035,45–54,Product Launch,30 Days,Pinterest,0.1423,"$1,118.62",3.49,Seattle,English,917,18075,9.2,Returning Customers,2026-04-26,Orbit Software
+AD-1036,35–44,Product Launch,21 Days,Twitter,0.0371,$817.49,3.02,New York,English,1399,66403,6.8,New Customers,2026-04-27,Summit Outdoor
+AD-1037,25–34,Brand Awareness,15 Days,Facebook,0.0828,$672.33,2.28,Chicago,English,860,29103,7.0,New Customers,2026-04-28,Juniper Home
+AD-1038,25–34,Lead Generation,14 Days,Instagram,0.0291,$704.13,4.61,Austin,English,2452,42227,8.4,New Customers,2026-04-29,Juniper Home
+AD-1039,45–54,Lead Generation,15 Days,Pinterest,0.0337,"$3,934.62",4.23,Los Angeles,English,3291,91904,4.6,Returning Customers,2026-04-29,Orbit Software
+AD-1040,45–54,Brand Awareness,14 Days,Twitter,0.0293,"$4,110.27",1.76,Austin,English,993,40168,4.2,Returning Customers,2026-04-30,Juniper Home
+AD-1041,45–54,Sales,7 Days,Facebook,0.0853,"$3,349.02",2.56,Los Angeles,English,2847,49750,8.0,High-Value Customers,2026-05-01,Bloom Studio
+AD-1042,35–44,Product Launch,14 Days,Instagram,0.1121,"$2,491.74",2.62,Austin,English,1930,38444,4.6,New Customers,2026-05-02,Bloom Studio
+AD-1043,25–34,Sales,30 Days,Pinterest,0.1783,"$2,090.47",1.59,Seattle,English,2021,34517,4.6,High-Value Customers,2026-05-03,Orbit Software
+AD-1044,35–44,Brand Awareness,21 Days,Twitter,0.1779,"$3,786.21",1.05,Los Angeles,English,394,16760,3.6,New Customers,2026-05-03,Bloom Studio
+AD-1045,45–54,Lead Generation,21 Days,Facebook,0.151,$860.89,2.15,Chicago,English,2487,88690,7.1,High-Value Customers,2026-05-04,Northstar Goods
+AD-1046,45–54,Lead Generation,30 Days,Instagram,0.0574,"$3,016.39",5.9,Chicago,English,3053,55346,4.4,New Customers,2026-05-05,Bloom Studio
+AD-1047,35–44,Sales,30 Days,Pinterest,0.0832,"$1,704.12",1.23,Seattle,English,1015,31618,5.5,High-Value Customers,2026-05-06,Orbit Software
+AD-1048,25–34,Lead Generation,14 Days,Twitter,0.0928,"$3,475.06",0.69,Los Angeles,English,765,28019,4.0,New Customers,2026-05-06,Orbit Software
+AD-1049,25–34,Lead Generation,15 Days,Facebook,0.0818,"$3,817.89",2.75,Austin,English,4717,81652,9.3,Returning Customers,2026-05-07,Juniper Home
+AD-1050,35–44,Lead Generation,7 Days,Instagram,0.1744,"$1,773.95",4.46,Los Angeles,English,3615,63530,4.4,Returning Customers,2026-05-08,Bloom Studio
+AD-1051,25–34,Product Launch,21 Days,Pinterest,0.165,$619.60,5.05,New York,English,1999,76519,6.3,High-Value Customers,2026-05-09,Bloom Studio
+AD-1052,35–44,Lead Generation,14 Days,Twitter,0.1638,"$2,572.10",0.99,New York,English,5598,86204,6.0,Returning Customers,2026-05-09,Orbit Software
+AD-1053,25–34,Product Launch,7 Days,Facebook,0.0501,"$3,534.95",3.46,Seattle,English,1343,30347,4.2,High-Value Customers,2026-05-10,Juniper Home
+AD-1054,35–44,Lead Generation,30 Days,Instagram,0.1815,"$1,826.90",5.38,Austin,English,1317,41369,5.9,New Customers,2026-05-11,Summit Outdoor
+AD-1055,35–44,Lead Generation,14 Days,Pinterest,0.1255,"$1,842.22",6.24,Chicago,English,2190,46263,8.5,Returning Customers,2026-05-12,Juniper Home
+AD-1056,18–24,Lead Generation,7 Days,Twitter,0.1054,"$1,587.70",4.48,New York,English,1690,30935,8.3,Returning Customers,2026-05-12,Orbit Software
+AD-1057,45–54,Sales,14 Days,Facebook,0.157,"$1,187.40",1.08,New York,English,3910,71101,4.1,Returning Customers,2026-05-13,Summit Outdoor
+AD-1058,45–54,Product Launch,7 Days,Instagram,0.1156,"$4,095.16",6.09,New York,English,3315,63834,8.2,New Customers,2026-05-14,Orbit Software
+AD-1059,45–54,Lead Generation,15 Days,Pinterest,0.1727,"$3,012.20",2.77,New York,English,4023,88425,7.2,Returning Customers,2026-05-15,Northstar Goods
+AD-1060,45–54,Lead Generation,14 Days,Twitter,0.1731,"$1,396.53",1.04,Seattle,English,4170,87303,9.8,High-Value Customers,2026-05-15,Northstar Goods
+AD-1061,45–54,Sales,7 Days,Facebook,0.1767,"$2,292.72",2.35,Seattle,English,2387,51097,7.2,High-Value Customers,2026-05-16,Summit Outdoor
+AD-1062,35–44,Lead Generation,15 Days,Instagram,0.0946,"$2,660.85",4.51,Austin,English,907,42604,7.4,High-Value Customers,2026-05-17,Northstar Goods
+AD-1063,45–54,Brand Awareness,15 Days,Pinterest,0.1349,"$2,797.66",2.64,Los Angeles,English,4364,92517,4.9,New Customers,2026-05-18,Orbit Software
+AD-1064,25–34,Lead Generation,14 Days,Twitter,0.1098,"$1,950.42",2.11,Austin,English,2030,34360,8.3,New Customers,2026-05-19,Bloom Studio
+AD-1065,45–54,Lead Generation,7 Days,Facebook,0.1265,"$1,472.58",2.71,Seattle,English,1072,18860,8.1,High-Value Customers,2026-05-19,Summit Outdoor
+AD-1066,18–24,Sales,7 Days,Instagram,0.164,$865.67,2.76,Chicago,English,1020,22556,5.9,High-Value Customers,2026-05-20,Orbit Software
+AD-1067,25–34,Lead Generation,21 Days,Pinterest,0.036,"$3,669.79",2.95,Seattle,English,1975,76569,8.9,Returning Customers,2026-05-21,Summit Outdoor
+AD-1068,45–54,Lead Generation,21 Days,Twitter,0.1711,"$2,726.53",4.98,Seattle,English,3820,69264,9.3,High-Value Customers,2026-05-22,Orbit Software
+AD-1069,25–34,Lead Generation,15 Days,Facebook,0.1236,$748.43,5.96,Seattle,English,953,64497,9.0,Returning Customers,2026-05-22,Juniper Home
+AD-1070,18–24,Sales,15 Days,Instagram,0.1132,"$2,296.43",5.39,Seattle,English,832,20718,8.4,Returning Customers,2026-05-23,Bloom Studio
+AD-1071,35–44,Brand Awareness,7 Days,Pinterest,0.0455,"$2,205.45",3.33,Chicago,English,440,13923,4.6,High-Value Customers,2026-05-24,Northstar Goods
+AD-1072,35–44,Sales,14 Days,Twitter,0.1097,"$3,146.28",4.73,Seattle,English,1731,78733,7.1,Returning Customers,2026-05-25,Orbit Software
+AD-1073,25–34,Product Launch,14 Days,Facebook,0.0994,"$2,541.37",3.61,New York,English,1784,67344,7.1,Returning Customers,2026-05-25,Northstar Goods
+AD-1074,18–24,Lead Generation,21 Days,Instagram,0.0769,"$3,541.91",4.14,Los Angeles,English,2305,66810,4.5,High-Value Customers,2026-05-26,Orbit Software
+AD-1075,25–34,Product Launch,15 Days,Pinterest,0.0981,"$3,824.26",1.3,Chicago,English,1456,53874,6.6,High-Value Customers,2026-05-27,Bloom Studio
+AD-1076,18–24,Brand Awareness,21 Days,Twitter,0.0694,$377.03,4.49,Seattle,English,4775,90675,5.0,New Customers,2026-05-28,Orbit Software
+AD-1077,45–54,Brand Awareness,14 Days,Facebook,0.1714,"$1,286.27",5.1,New York,English,1347,42046,6.9,High-Value Customers,2026-05-28,Northstar Goods
+AD-1078,18–24,Lead Generation,7 Days,Instagram,0.1026,"$1,886.96",1.03,New York,English,1075,34115,8.5,Returning Customers,2026-05-29,Bloom Studio
+AD-1079,18–24,Product Launch,30 Days,Pinterest,0.146,"$1,037.18",1.02,New York,English,3158,51864,4.3,High-Value Customers,2026-05-30,Summit Outdoor
+AD-1080,25–34,Lead Generation,7 Days,Twitter,0.1767,"$3,531.71",5.93,Seattle,English,2275,77233,4.7,Returning Customers,2026-05-31,Orbit Software
+AD-1081,25–34,Sales,15 Days,Facebook,0.1213,"$3,184.49",2.67,New York,English,4500,91902,4.9,High-Value Customers,2026-06-01,Juniper Home
+AD-1082,45–54,Brand Awareness,30 Days,Instagram,0.1024,"$1,813.19",1.12,New York,English,5209,82307,8.7,New Customers,2026-06-01,Bloom Studio
+AD-1083,25–34,Lead Generation,30 Days,Pinterest,0.1587,"$3,769.34",2.66,Seattle,English,1967,37597,9.5,High-Value Customers,2026-06-02,Bloom Studio
+AD-1084,35–44,Lead Generation,30 Days,Twitter,0.0756,"$1,841.23",3.76,New York,English,1324,30707,8.2,New Customers,2026-06-03,Northstar Goods
+AD-1085,45–54,Product Launch,21 Days,Facebook,0.0767,"$2,296.99",5.19,New York,English,1367,22292,7.8,Returning Customers,2026-06-04,Orbit Software
+AD-1086,25–34,Sales,14 Days,Instagram,0.1042,"$4,039.99",1.88,Austin,English,1273,31515,3.0,New Customers,2026-06-04,Juniper Home
+AD-1087,45–54,Product Launch,14 Days,Pinterest,0.0339,"$3,046.96",3.16,New York,English,1702,53783,8.3,Returning Customers,2026-06-05,Summit Outdoor
+AD-1088,25–34,Sales,15 Days,Twitter,0.0851,"$3,509.28",1.92,New York,English,4638,85223,8.9,High-Value Customers,2026-06-06,Juniper Home
+AD-1089,25–34,Product Launch,21 Days,Facebook,0.0993,"$2,635.44",3.13,Los Angeles,English,424,15505,3.5,High-Value Customers,2026-06-07,Summit Outdoor
+AD-1090,35–44,Lead Generation,15 Days,Instagram,0.1922,$619.54,1.78,Los Angeles,English,1325,27800,6.1,New Customers,2026-06-07,Summit Outdoor
+AD-1091,25–34,Product Launch,30 Days,Pinterest,0.0762,"$2,622.36",4.72,Seattle,English,605,18809,8.5,Returning Customers,2026-06-08,Northstar Goods
+AD-1092,35–44,Lead Generation,15 Days,Twitter,0.0881,"$1,565.33",0.62,Austin,English,1750,31309,9.0,Returning Customers,2026-06-09,Summit Outdoor
+AD-1093,35–44,Lead Generation,14 Days,Facebook,0.0874,"$3,558.81",0.62,Los Angeles,English,2076,57393,6.6,High-Value Customers,2026-06-10,Bloom Studio
+AD-1094,25–34,Sales,14 Days,Instagram,0.1164,$363.73,0.68,Los Angeles,English,2579,57455,9.3,New Customers,2026-06-10,Northstar Goods
+AD-1095,35–44,Product Launch,30 Days,Pinterest,0.0906,"$1,769.60",4.89,Austin,English,955,67770,7.0,High-Value Customers,2026-06-11,Summit Outdoor
+AD-1096,18–24,Brand Awareness,14 Days,Twitter,0.0319,"$3,560.04",1.13,New York,English,2611,60918,3.5,New Customers,2026-06-12,Orbit Software
+AD-1097,18–24,Product Launch,14 Days,Facebook,0.0417,"$2,224.49",3.69,Los Angeles,English,1030,32158,9.5,Returning Customers,2026-06-13,Orbit Software
+AD-1098,45–54,Brand Awareness,7 Days,Instagram,0.1255,"$3,066.82",3.13,Los Angeles,English,2451,86519,5.5,Returning Customers,2026-06-13,Summit Outdoor
+AD-1099,35–44,Brand Awareness,15 Days,Pinterest,0.0475,"$3,905.33",2.08,New York,English,1825,62073,8.6,New Customers,2026-06-14,Orbit Software
+AD-1100,18–24,Brand Awareness,30 Days,Twitter,0.0878,"$2,589.48",4.47,Seattle,English,1976,84910,5.8,New Customers,2026-06-15,Juniper Home
+AD-1101,45–54,Brand Awareness,14 Days,Facebook,0.1698,$631.69,0.56,Austin,English,1763,36692,7.6,New Customers,2026-06-16,Summit Outdoor
+AD-1102,45–54,Sales,15 Days,Instagram,0.1903,"$2,770.26",2.55,New York,English,1329,21625,3.4,High-Value Customers,2026-06-17,Summit Outdoor
+AD-1103,18–24,Sales,21 Days,Pinterest,0.0648,"$3,131.82",1.01,Seattle,English,1136,25599,9.5,High-Value Customers,2026-06-17,Orbit Software
+AD-1104,18–24,Product Launch,7 Days,Twitter,0.036,"$2,933.15",3.92,Los Angeles,English,3188,52310,9.6,High-Value Customers,2026-06-18,Summit Outdoor
+AD-1105,35–44,Lead Generation,7 Days,Facebook,0.0329,$919.53,2.95,New York,English,600,14200,6.7,High-Value Customers,2026-06-19,Orbit Software
+AD-1106,35–44,Lead Generation,15 Days,Instagram,0.1263,"$1,990.45",1.92,Seattle,English,2280,37815,4.9,High-Value Customers,2026-06-20,Bloom Studio
+AD-1107,45–54,Brand Awareness,14 Days,Pinterest,0.0601,"$1,122.49",5.2,Los Angeles,English,2305,85079,5.9,New Customers,2026-06-20,Northstar Goods
+AD-1108,35–44,Lead Generation,30 Days,Twitter,0.0775,"$3,168.82",5.85,Seattle,English,1549,74939,3.3,High-Value Customers,2026-06-21,Juniper Home
+AD-1109,25–34,Lead Generation,7 Days,Facebook,0.1424,$870.83,6.38,Chicago,English,2562,44125,7.9,Returning Customers,2026-06-22,Bloom Studio
+AD-1110,45–54,Product Launch,21 Days,Instagram,0.1011,"$3,007.66",4.64,Los Angeles,English,5460,87390,8.0,Returning Customers,2026-06-23,Northstar Goods
+AD-1111,25–34,Lead Generation,15 Days,Pinterest,0.077,$955.69,4.75,New York,English,1965,32292,3.5,New Customers,2026-06-23,Bloom Studio
+AD-1112,18–24,Product Launch,15 Days,Twitter,0.178,"$2,746.16",2.94,Seattle,English,3278,53598,5.8,Returning Customers,2026-06-24,Summit Outdoor
+AD-1113,35–44,Product Launch,30 Days,Facebook,0.1792,"$3,983.46",4.45,Los Angeles,English,1610,48855,3.9,New Customers,2026-06-25,Northstar Goods
+AD-1114,18–24,Sales,30 Days,Instagram,0.0929,"$2,037.66",1.73,New York,English,939,18532,9.0,New Customers,2026-06-26,Orbit Software
+AD-1115,18–24,Brand Awareness,30 Days,Pinterest,0.0502,"$2,854.88",4.04,New York,English,408,23888,3.0,New Customers,2026-06-26,Summit Outdoor
+AD-1116,45–54,Product Launch,7 Days,Twitter,0.0924,"$3,806.33",5.35,Chicago,English,3186,73923,6.2,Returning Customers,2026-06-27,Juniper Home
+AD-1117,25–34,Product Launch,30 Days,Facebook,0.027,"$2,574.40",5.02,Austin,English,1606,45698,9.4,High-Value Customers,2026-06-28,Summit Outdoor
+AD-1118,25–34,Brand Awareness,7 Days,Instagram,0.0435,"$3,957.42",3.95,New York,English,1933,63880,7.1,Returning Customers,2026-06-29,Juniper Home
+AD-1119,35–44,Lead Generation,14 Days,Pinterest,0.0712,"$3,896.90",3.97,Austin,English,2932,82543,8.0,Returning Customers,2026-06-29,Northstar Goods
+AD-1120,18–24,Sales,14 Days,Twitter,0.0515,"$3,625.64",6.27,Austin,English,843,69989,7.4,New Customers,2026-06-30,Summit Outdoor
+AD-1121,45–54,Product Launch,15 Days,Facebook,0.1082,"$4,178.76",0.69,Seattle,English,440,15434,8.9,New Customers,2026-07-01,Juniper Home
+AD-1122,18–24,Product Launch,21 Days,Instagram,0.091,"$2,003.32",4.21,Seattle,English,731,29498,3.3,High-Value Customers,2026-07-02,Bloom Studio
+AD-1123,35–44,Brand Awareness,15 Days,Pinterest,0.0321,"$3,193.34",3.35,Los Angeles,English,1802,35700,3.5,Returning Customers,2026-07-03,Summit Outdoor
+AD-1124,18–24,Sales,15 Days,Twitter,0.0378,$914.63,5.99,Seattle,English,2868,54126,6.1,New Customers,2026-07-03,Bloom Studio
+AD-1125,45–54,Brand Awareness,30 Days,Facebook,0.1791,"$1,806.35",1.27,New York,English,3127,51690,3.8,Returning Customers,2026-07-04,Northstar Goods
+AD-1126,45–54,Sales,14 Days,Instagram,0.0361,"$4,075.01",3.69,New York,English,2304,42038,6.6,Returning Customers,2026-07-05,Summit Outdoor
+AD-1127,25–34,Product Launch,15 Days,Pinterest,0.1214,"$3,594.78",3.78,New York,English,1820,68608,7.1,New Customers,2026-07-06,Northstar Goods
+AD-1128,18–24,Product Launch,14 Days,Twitter,0.1178,"$3,621.50",0.93,Los Angeles,English,621,15394,9.7,New Customers,2026-07-06,Orbit Software
+AD-1129,35–44,Lead Generation,14 Days,Facebook,0.1078,"$3,629.14",6.02,Seattle,English,2215,87630,3.4,Returning Customers,2026-07-07,Juniper Home
+AD-1130,18–24,Brand Awareness,15 Days,Instagram,0.1183,"$3,390.04",3.53,Los Angeles,English,720,41327,7.9,New Customers,2026-07-08,Juniper Home
+AD-1131,25–34,Product Launch,14 Days,Pinterest,0.0613,"$2,745.59",0.52,Seattle,English,190,14168,9.2,High-Value Customers,2026-07-09,Summit Outdoor
+AD-1132,35–44,Brand Awareness,7 Days,Twitter,0.0943,"$3,577.93",4.38,Chicago,English,583,23680,5.0,Returning Customers,2026-07-09,Orbit Software
+AD-1133,18–24,Sales,7 Days,Facebook,0.0339,"$3,023.02",2.17,Chicago,English,1132,24244,8.5,New Customers,2026-07-10,Northstar Goods
+AD-1134,35–44,Lead Generation,21 Days,Instagram,0.0602,"$1,719.75",0.69,Seattle,English,934,68242,5.5,High-Value Customers,2026-07-11,Bloom Studio
+AD-1135,18–24,Lead Generation,21 Days,Pinterest,0.1143,"$4,013.52",1.84,Seattle,English,1207,33014,7.3,Returning Customers,2026-07-12,Northstar Goods
+AD-1136,45–54,Brand Awareness,21 Days,Twitter,0.0457,"$3,561.64",1.34,Austin,English,3486,79141,6.0,High-Value Customers,2026-07-12,Bloom Studio
+AD-1137,45–54,Brand Awareness,14 Days,Facebook,0.0923,"$3,584.54",3.49,New York,English,1213,18677,9.2,High-Value Customers,2026-07-13,Orbit Software
+AD-1138,25–34,Sales,15 Days,Instagram,0.1149,"$2,369.42",2.4,Chicago,English,879,62474,5.7,Returning Customers,2026-07-14,Orbit Software
+AD-1139,45–54,Lead Generation,14 Days,Pinterest,0.0735,$426.86,4.69,Seattle,English,2235,82087,9.6,Returning Customers,2026-07-15,Summit Outdoor
+AD-1140,18–24,Brand Awareness,30 Days,Twitter,0.0475,"$2,465.78",5.31,Seattle,English,422,17276,8.3,New Customers,2026-07-15,Summit Outdoor
+AD-1141,45–54,Product Launch,30 Days,Facebook,0.0362,$417.04,3.04,New York,English,295,24421,5.8,High-Value Customers,2026-07-16,Orbit Software
+AD-1142,25–34,Lead Generation,30 Days,Instagram,0.0475,"$2,825.11",3.25,Los Angeles,English,638,17622,4.8,Returning Customers,2026-07-17,Juniper Home
+AD-1143,35–44,Product Launch,7 Days,Pinterest,0.051,"$2,686.08",4.56,Seattle,English,784,50350,8.2,High-Value Customers,2026-07-18,Summit Outdoor
+AD-1144,35–44,Lead Generation,30 Days,Twitter,0.059,"$2,489.28",4.5,New York,English,3967,94597,8.9,New Customers,2026-07-19,Orbit Software
+AD-1145,25–34,Lead Generation,14 Days,Facebook,0.1156,"$1,029.70",2.84,Chicago,English,1430,26920,8.1,High-Value Customers,2026-07-19,Juniper Home
+AD-1146,45–54,Lead Generation,14 Days,Instagram,0.0552,$870.75,2.61,Seattle,English,2087,79267,7.9,New Customers,2026-07-20,Bloom Studio
+AD-1147,25–34,Brand Awareness,30 Days,Pinterest,0.0359,"$3,340.10",3.18,New York,English,926,18741,7.3,New Customers,2026-07-21,Northstar Goods
+AD-1148,45–54,Product Launch,7 Days,Twitter,0.1144,"$1,869.46",3.33,New York,English,1499,65083,6.4,High-Value Customers,2026-07-22,Summit Outdoor
+AD-1149,25–34,Lead Generation,15 Days,Facebook,0.056,"$1,853.17",4.15,Chicago,English,3467,83556,5.8,Returning Customers,2026-07-22,Bloom Studio
+AD-1150,35–44,Lead Generation,7 Days,Instagram,0.0784,"$1,628.44",1.15,Chicago,English,1565,27265,8.0,New Customers,2026-07-23,Orbit Software
+AD-1151,25–34,Lead Generation,14 Days,Pinterest,0.1555,"$2,469.74",1.25,Austin,English,928,41924,7.6,New Customers,2026-07-24,Orbit Software
+AD-1152,18–24,Sales,21 Days,Twitter,0.0856,"$2,909.79",2.27,Seattle,English,4357,81007,8.5,Returning Customers,2026-07-25,Bloom Studio
+AD-1153,25–34,Product Launch,30 Days,Facebook,0.0737,"$1,462.22",5.49,New York,English,3209,84666,9.4,Returning Customers,2026-07-25,Summit Outdoor
+AD-1154,35–44,Product Launch,30 Days,Instagram,0.1282,"$3,994.30",4.9,Seattle,English,596,28834,8.6,New Customers,2026-07-26,Orbit Software
+AD-1155,25–34,Product Launch,7 Days,Pinterest,0.0462,"$2,609.85",4.5,Los Angeles,English,3658,73537,3.6,High-Value Customers,2026-07-27,Summit Outdoor
+AD-1156,18–24,Brand Awareness,14 Days,Twitter,0.1592,"$1,844.06",1.43,Chicago,English,814,59599,9.0,New Customers,2026-07-28,Orbit Software
+AD-1157,35–44,Sales,21 Days,Facebook,0.1496,"$2,733.73",0.87,Los Angeles,English,1209,51491,9.7,High-Value Customers,2026-07-28,Bloom Studio
+AD-1158,25–34,Sales,7 Days,Instagram,0.0499,"$3,820.88",3.81,Seattle,English,4465,69617,3.4,High-Value Customers,2026-07-29,Juniper Home
+AD-1159,18–24,Lead Generation,21 Days,Pinterest,0.136,"$3,727.03",2.79,Chicago,English,974,25528,8.8,New Customers,2026-07-30,Northstar Goods
+AD-1160,25–34,Brand Awareness,21 Days,Twitter,0.0274,"$1,760.33",0.88,New York,English,1204,20538,8.3,New Customers,2026-07-31,Bloom Studio
+AD-1161,45–54,Sales,14 Days,Facebook,0.108,"$2,551.01",0.71,Chicago,English,3765,85672,3.9,High-Value Customers,2026-08-01,Juniper Home
+AD-1162,18–24,Product Launch,30 Days,Instagram,0.1371,"$2,016.08",1.44,Los Angeles,English,5120,93790,8.4,New Customers,2026-08-01,Summit Outdoor
+AD-1163,18–24,Sales,15 Days,Pinterest,0.0754,"$1,991.84",3.87,New York,English,1002,35653,6.8,High-Value Customers,2026-08-02,Juniper Home
+AD-1164,45–54,Brand Awareness,30 Days,Twitter,0.1157,"$2,715.52",0.86,Chicago,English,2638,75628,3.6,High-Value Customers,2026-08-03,Bloom Studio
+AD-1165,25–34,Brand Awareness,30 Days,Facebook,0.0343,$555.61,3.91,Chicago,English,1928,40837,8.4,Returning Customers,2026-08-04,Orbit Software
+AD-1166,25–34,Sales,21 Days,Instagram,0.0785,"$3,569.06",2.49,New York,English,842,44253,4.4,New Customers,2026-08-04,Northstar Goods
+AD-1167,18–24,Product Launch,14 Days,Pinterest,0.1491,"$3,693.60",3.17,New York,English,2493,38819,3.4,Returning Customers,2026-08-05,Summit Outdoor
+AD-1168,45–54,Brand Awareness,14 Days,Twitter,0.0273,"$3,669.14",4.48,Austin,English,1142,27143,4.2,Returning Customers,2026-08-06,Northstar Goods
+AD-1169,25–34,Brand Awareness,14 Days,Facebook,0.1139,"$1,529.00",3.9,Austin,English,833,15243,7.0,Returning Customers,2026-08-07,Bloom Studio
+AD-1170,18–24,Brand Awareness,15 Days,Instagram,0.1737,"$3,551.29",1.29,Austin,English,1146,83328,6.2,New Customers,2026-08-07,Orbit Software
+AD-1171,35–44,Product Launch,30 Days,Pinterest,0.1056,"$4,092.35",0.63,Los Angeles,English,1275,60883,7.0,Returning Customers,2026-08-08,Bloom Studio
+AD-1172,35–44,Lead Generation,7 Days,Twitter,0.0326,"$1,462.99",3.76,Seattle,English,2233,61952,8.9,High-Value Customers,2026-08-09,Orbit Software
+AD-1173,18–24,Product Launch,15 Days,Facebook,0.0712,"$1,807.11",4.6,Chicago,English,421,20380,4.4,New Customers,2026-08-10,Summit Outdoor
+AD-1174,35–44,Lead Generation,30 Days,Instagram,0.18,"$2,361.32",4.1,New York,English,945,76031,5.7,Returning Customers,2026-08-10,Bloom Studio
+AD-1175,25–34,Product Launch,7 Days,Pinterest,0.0979,"$3,083.49",0.99,New York,English,4598,71866,3.7,High-Value Customers,2026-08-11,Juniper Home
+AD-1176,25–34,Sales,7 Days,Twitter,0.1157,"$2,705.49",2.12,Los Angeles,English,3396,84089,9.3,New Customers,2026-08-12,Orbit Software
+AD-1177,45–54,Sales,30 Days,Facebook,0.1588,$486.04,1.79,Austin,English,2019,36317,8.4,Returning Customers,2026-08-13,Orbit Software
+AD-1178,18–24,Lead Generation,14 Days,Instagram,0.0299,$996.60,2.16,Seattle,English,592,15446,8.8,High-Value Customers,2026-08-13,Northstar Goods
+AD-1179,18–24,Lead Generation,21 Days,Pinterest,0.1642,"$3,139.38",5.31,Austin,English,916,27752,4.8,High-Value Customers,2026-08-14,Bloom Studio
+AD-1180,35–44,Product Launch,21 Days,Twitter,0.0418,"$1,366.75",3.71,New York,English,2627,48984,5.8,High-Value Customers,2026-08-15,Summit Outdoor
+AD-1181,35–44,Lead Generation,14 Days,Facebook,0.0495,"$1,953.28",3.53,New York,English,994,20355,8.1,New Customers,2026-08-16,Juniper Home
+AD-1182,35–44,Sales,15 Days,Instagram,0.166,"$3,984.78",4.9,New York,English,360,16345,8.7,New Customers,2026-08-17,Orbit Software
+AD-1183,35–44,Product Launch,21 Days,Pinterest,0.1485,"$1,425.39",1.53,Seattle,English,3413,60026,5.8,New Customers,2026-08-17,Orbit Software
+AD-1184,35–44,Lead Generation,7 Days,Twitter,0.1229,"$1,722.56",4.7,Los Angeles,English,1966,48684,7.8,High-Value Customers,2026-08-18,Orbit Software
+AD-1185,35–44,Lead Generation,7 Days,Facebook,0.0921,"$2,806.98",0.88,Seattle,English,1691,57586,6.1,High-Value Customers,2026-08-19,Bloom Studio
+AD-1186,45–54,Brand Awareness,21 Days,Instagram,0.1467,"$3,945.35",6.02,Chicago,English,2264,85964,4.3,Returning Customers,2026-08-20,Summit Outdoor
+AD-1187,18–24,Product Launch,30 Days,Pinterest,0.0397,"$1,643.56",6.03,Austin,English,1899,89058,4.7,High-Value Customers,2026-08-20,Juniper Home
+AD-1188,25–34,Lead Generation,30 Days,Twitter,0.0928,$453.83,1.05,New York,English,2315,82783,9.3,New Customers,2026-08-21,Juniper Home
+AD-1189,18–24,Brand Awareness,30 Days,Facebook,0.114,$759.62,1.84,Seattle,English,3796,93745,4.6,High-Value Customers,2026-08-22,Bloom Studio
+AD-1190,35–44,Sales,15 Days,Instagram,0.1823,"$2,875.94",1.06,Seattle,English,2675,47892,8.5,Returning Customers,2026-08-23,Juniper Home
+AD-1191,45–54,Lead Generation,14 Days,Pinterest,0.0707,"$3,058.81",5.65,New York,English,190,15137,3.6,New Customers,2026-08-23,Orbit Software
+AD-1192,25–34,Sales,14 Days,Twitter,0.111,"$1,361.00",2.18,Los Angeles,English,2322,52410,4.6,Returning Customers,2026-08-24,Northstar Goods
+AD-1193,45–54,Product Launch,21 Days,Facebook,0.0943,"$2,239.09",4.58,Los Angeles,English,2309,62098,3.3,Returning Customers,2026-08-25,Northstar Goods
+AD-1194,18–24,Brand Awareness,15 Days,Instagram,0.1351,"$3,213.96",4.92,Chicago,English,1422,22604,4.6,High-Value Customers,2026-08-26,Summit Outdoor
+AD-1195,45–54,Sales,21 Days,Pinterest,0.1152,"$2,586.49",4.62,Chicago,English,968,21627,8.2,New Customers,2026-08-26,Bloom Studio
+AD-1196,45–54,Brand Awareness,30 Days,Twitter,0.0702,"$3,690.83",4.1,Austin,English,3654,60877,3.2,High-Value Customers,2026-08-27,Orbit Software
+AD-1197,25–34,Product Launch,7 Days,Facebook,0.1205,"$3,098.44",3.09,Austin,English,539,25162,4.3,Returning Customers,2026-08-28,Summit Outdoor
+AD-1198,35–44,Sales,21 Days,Instagram,0.1211,"$2,963.18",5.43,Chicago,English,781,17056,8.9,High-Value Customers,2026-08-29,Orbit Software
+AD-1199,18–24,Sales,15 Days,Pinterest,0.098,"$1,851.89",1.96,Los Angeles,English,4606,93884,4.0,Returning Customers,2026-08-29,Orbit Software
+AD-1200,35–44,Brand Awareness,14 Days,Twitter,0.0766,"$2,673.88",2.59,New York,English,3679,66702,5.7,Returning Customers,2026-08-30,Juniper Home
+AD-1201,45–54,Lead Generation,15 Days,Facebook,0.0366,"$1,342.09",1.66,Chicago,English,2445,42633,8.6,High-Value Customers,2026-08-31,Juniper Home
+AD-1202,35–44,Brand Awareness,21 Days,Instagram,0.1154,$579.80,4.98,New York,English,523,30038,7.4,High-Value Customers,2026-09-01,Juniper Home
+AD-1203,45–54,Product Launch,7 Days,Pinterest,0.0474,"$2,389.92",2.13,New York,English,4258,75663,3.7,High-Value Customers,2026-09-02,Orbit Software
+AD-1204,35–44,Lead Generation,14 Days,Twitter,0.121,"$3,998.12",2.43,Los Angeles,English,1433,56828,8.3,High-Value Customers,2026-09-02,Orbit Software
+AD-1205,18–24,Sales,15 Days,Facebook,0.055,"$1,449.70",2.83,New York,English,2222,57274,5.0,New Customers,2026-09-03,Juniper Home
+AD-1206,18–24,Brand Awareness,21 Days,Instagram,0.1678,$567.45,4.91,New York,English,2851,92809,8.1,High-Value Customers,2026-09-04,Juniper Home
+AD-1207,45–54,Brand Awareness,14 Days,Pinterest,0.1658,"$1,583.76",1.72,Austin,English,2034,69779,4.7,High-Value Customers,2026-09-05,Summit Outdoor
+AD-1208,25–34,Product Launch,7 Days,Twitter,0.0488,"$3,981.12",6.26,Chicago,English,618,47799,4.2,New Customers,2026-09-05,Orbit Software
+AD-1209,35–44,Lead Generation,30 Days,Facebook,0.089,$935.80,4.58,Los Angeles,English,792,20183,4.5,New Customers,2026-09-06,Orbit Software
+AD-1210,25–34,Sales,21 Days,Instagram,0.0901,"$2,025.62",3.47,Los Angeles,English,1366,42990,3.7,Returning Customers,2026-09-07,Summit Outdoor
+AD-1211,25–34,Brand Awareness,15 Days,Pinterest,0.133,"$3,865.98",0.7,Los Angeles,English,854,39366,5.5,New Customers,2026-09-08,Juniper Home
+AD-1212,18–24,Brand Awareness,15 Days,Twitter,0.037,$572.84,5.22,New York,English,1587,51356,8.7,New Customers,2026-09-08,Juniper Home
+AD-1213,35–44,Sales,15 Days,Facebook,0.0309,$493.99,4.1,Seattle,English,3119,71399,8.0,New Customers,2026-09-09,Summit Outdoor
+AD-1214,45–54,Product Launch,21 Days,Instagram,0.1919,"$3,967.48",4.14,Austin,English,809,30285,9.0,Returning Customers,2026-09-10,Northstar Goods
+AD-1215,25–34,Sales,7 Days,Pinterest,0.0903,"$2,372.58",3.86,New York,English,3865,90272,9.2,Returning Customers,2026-09-11,Summit Outdoor
+AD-1216,35–44,Lead Generation,21 Days,Twitter,0.1678,$412.66,5.82,Chicago,English,1031,47810,7.1,High-Value Customers,2026-09-11,Orbit Software
+AD-1217,35–44,Brand Awareness,21 Days,Facebook,0.0478,"$4,046.46",4.32,Chicago,English,2538,47388,9.4,New Customers,2026-09-12,Bloom Studio
+AD-1218,25–34,Brand Awareness,15 Days,Instagram,0.0908,"$3,428.80",2.31,Los Angeles,English,1352,74730,7.3,New Customers,2026-09-13,Summit Outdoor
+AD-1219,25–34,Lead Generation,15 Days,Pinterest,0.0966,"$1,516.74",6.11,New York,English,641,41295,6.6,High-Value Customers,2026-09-14,Juniper Home
+AD-1220,35–44,Lead Generation,21 Days,Twitter,0.0916,"$1,712.66",2.27,Austin,English,1347,49384,9.7,Returning Customers,2026-09-14,Orbit Software
+AD-1221,45–54,Brand Awareness,14 Days,Facebook,0.1576,"$3,040.11",2.98,Austin,English,2686,87254,3.1,New Customers,2026-09-15,Summit Outdoor
+AD-1222,25–34,Product Launch,21 Days,Instagram,0.1572,"$2,096.65",3.44,Los Angeles,English,960,24822,8.3,High-Value Customers,2026-09-16,Orbit Software
+AD-1223,35–44,Lead Generation,15 Days,Pinterest,0.1385,"$3,754.38",3.13,Los Angeles,English,1050,27616,9.1,High-Value Customers,2026-09-17,Summit Outdoor
+AD-1224,18–24,Brand Awareness,30 Days,Twitter,0.1632,"$1,274.61",3.56,Los Angeles,English,1715,33217,6.1,New Customers,2026-09-18,Northstar Goods
+AD-1225,45–54,Lead Generation,15 Days,Facebook,0.1014,$611.26,5.57,Seattle,English,2944,69253,8.3,New Customers,2026-09-18,Juniper Home
+AD-1226,35–44,Sales,7 Days,Instagram,0.1365,"$1,053.74",6.48,Austin,English,3526,93134,5.2,High-Value Customers,2026-09-19,Northstar Goods
+AD-1227,35–44,Product Launch,21 Days,Pinterest,0.0644,"$2,105.11",0.69,New York,English,2795,50328,5.3,New Customers,2026-09-20,Orbit Software
+AD-1228,45–54,Brand Awareness,14 Days,Twitter,0.0843,$516.70,6.2,Seattle,English,1267,35103,7.1,Returning Customers,2026-09-21,Northstar Goods
+AD-1229,25–34,Sales,21 Days,Facebook,0.1604,"$1,155.02",5.77,Seattle,English,3683,69312,5.0,High-Value Customers,2026-09-21,Bloom Studio
+AD-1230,45–54,Sales,21 Days,Instagram,0.0792,"$2,765.23",1.51,Los Angeles,English,3568,71941,3.5,High-Value Customers,2026-09-22,Juniper Home
+AD-1231,18–24,Brand Awareness,21 Days,Pinterest,0.14,"$3,510.16",4.07,Los Angeles,English,419,19660,6.7,Returning Customers,2026-09-23,Summit Outdoor
+AD-1232,18–24,Lead Generation,21 Days,Twitter,0.152,$983.07,3.15,Los Angeles,English,4146,94697,9.5,High-Value Customers,2026-09-24,Orbit Software
+AD-1233,35–44,Sales,15 Days,Facebook,0.0995,"$2,145.05",6.35,Austin,English,1001,40980,3.8,Returning Customers,2026-09-24,Bloom Studio
+AD-1234,18–24,Sales,14 Days,Instagram,0.1136,"$1,464.25",0.89,Austin,English,1528,49279,4.7,High-Value Customers,2026-09-25,Summit Outdoor
+AD-1235,45–54,Brand Awareness,14 Days,Pinterest,0.1453,"$3,309.16",2.24,Austin,English,1690,72970,7.5,High-Value Customers,2026-09-26,Bloom Studio
+AD-1236,45–54,Sales,21 Days,Twitter,0.0481,$879.15,6.23,Chicago,English,5082,89480,9.4,Returning Customers,2026-09-27,Juniper Home
+AD-1237,35–44,Sales,15 Days,Facebook,0.0441,$853.97,1.96,Chicago,English,4961,77490,4.9,High-Value Customers,2026-09-27,Bloom Studio
+AD-1238,35–44,Lead Generation,14 Days,Instagram,0.059,"$2,089.37",6.3,Los Angeles,English,5639,88593,4.1,High-Value Customers,2026-09-28,Summit Outdoor
+AD-1239,35–44,Brand Awareness,21 Days,Pinterest,0.1734,"$3,823.77",4.18,Los Angeles,English,1906,51302,4.5,High-Value Customers,2026-09-29,Orbit Software
+AD-1240,35–44,Lead Generation,21 Days,Twitter,0.1028,"$1,829.31",1.86,Chicago,English,761,54246,6.2,High-Value Customers,2026-09-30,Summit Outdoor
